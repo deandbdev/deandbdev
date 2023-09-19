@@ -37,6 +37,6 @@ Fundamentals student, from Beautiful Bulgaria</h2>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/deandbdev/deandbdev/assets/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/deandbdev/deandbdev/main/assets/snake.svg" alt="Snake animation" />
 
 ###
