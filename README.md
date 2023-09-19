@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Dean and I'm a Full Stack PHP developer | Web Designer, currently SoftUni Python
-Fundamentals student, from Beautiful Bulgaria</h2>
+<h2 align="left">Hi 👋! My name is Dean and I'm a Full Stack PHP developer | Web Designer, currently Python
+Fundamentals student</h2>
 
 ###
 
