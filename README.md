@@ -38,9 +38,3 @@ Fundamentals student, from Beautiful Bulgaria</h2>
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
